@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "smpmod",
+	"version": "${version}",
+	"name": "smpmod",
+	"description": "This is the mod for the SMP!",
+	"authors": [
+		"owen - godsofmecraft"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/smpmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.godsofmecraft.smpmod.Smpmod"
+		],
+		"fabric-datagen": [
+			"me.godsofmecraft.smpmod.SmpmodDataGenerator"
+		],
+		"client": [
+			"me.godsofmecraft.smpmod.SmpmodClient"
+		]
+	},
+	"mixins": [
+		"smpmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
