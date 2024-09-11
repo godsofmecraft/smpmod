@@ -2,7 +2,7 @@ package me.godsofmecraft.smpmod.datagen;
 
 import me.godsofmecraft.smpmod.block.ModBlocks;
 
-import me.godsofmecraft.smpmod.item.ModItems;
+
 import me.godsofmecraft.smpmod.util.ModTags;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
