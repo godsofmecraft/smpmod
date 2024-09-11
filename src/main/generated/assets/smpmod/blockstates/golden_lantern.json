@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "smpmod:block/golden_lantern"
+    },
+    "hanging=true": {
+      "model": "smpmod:block/golden_lantern_hanging"
+    }
+  }
+}

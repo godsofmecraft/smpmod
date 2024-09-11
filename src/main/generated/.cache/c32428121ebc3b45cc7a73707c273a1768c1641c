@@ -1,0 +1,6 @@
+// 1.21.1	2024-09-11T20:40:32.6165462	smpmod/Tags for minecraft:block
+1147d23a3be95c0178d395b05a0f04f2f7b93754 data\minecraft\tags\block\buttons.json
+7c0df737f89879c58a02577bdc360844b9c29dbc data\minecraft\tags\block\mineable\pickaxe.json
+7edccc49c183d7b40578a0fb6d6b7be3331f55a2 data\minecraft\tags\block\trapdoors.json
+7c0df737f89879c58a02577bdc360844b9c29dbc data\minecraft\tags\block\needs_stone_tool.json
+a8fa76c059a8fff53f35a19c980986c58b978a81 data\minecraft\tags\block\doors.json

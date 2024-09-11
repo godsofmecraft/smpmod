@@ -1,0 +1,8 @@
+// 1.21.1	2024-09-11T20:40:32.6160463	smpmod/Block Loot Tables
+8a945c2392fa70e24f0321486a131f288322bb9c data\smpmod\loot_table\blocks\iron_button.json
+ac114b350910a36cac6d0eedf4234ffc7f7eb482 data\smpmod\loot_table\blocks\golden_button.json
+6442efe15cd2422f56455c2697473131cfa84a5e data\smpmod\loot_table\blocks\golden_lantern.json
+a38105d7eae918abba869419d92f957231bd87a1 data\smpmod\loot_table\blocks\golden_door.json
+6d1ce225b72e8e8c0a8afad30c3f73af787d1ed6 data\smpmod\loot_table\blocks\golden_chain.json
+98fe32c055610b31d64710012daca4d1d7a242b1 data\smpmod\loot_table\blocks\golden_trapdoor.json
+3cf6f532dad1810b76b6f80a185fa8af4a2746b6 data\smpmod\loot_table\blocks\golden_soul_lantern.json

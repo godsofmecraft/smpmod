@@ -1,0 +1,16 @@
+{
+
+
+  "block.smpmod.golden_trapdoor": "Golden Trapdoor",
+  "block.smpmod.golden_door": "Golden Door",
+  "block.smpmod.golden_chain": "Golden Chain",
+  "block.smpmod.golden_button": "Golden Button",
+  "block.smpmod.iron_button": "Iron Button",
+  "block.smpmod.golden_lantern": "Golden Lantern",
+  "block.smpmod.golden_soul_lantern": "Golden Soul Lantern",
+
+  "item.smpmod.copper_nugget": "Copper Nugget",
+
+  "itemgroup.smpmod.smp_mod_items_group": "Smp Mod"
+
+}

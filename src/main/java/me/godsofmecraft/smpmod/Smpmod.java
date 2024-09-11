@@ -1,5 +1,8 @@
 package me.godsofmecraft.smpmod;
 
+import me.godsofmecraft.smpmod.block.ModBlocks;
+import me.godsofmecraft.smpmod.item.ModItemGroups;
+import me.godsofmecraft.smpmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +14,9 @@ public class Smpmod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 
 	}
 }
